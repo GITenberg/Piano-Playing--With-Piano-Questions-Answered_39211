@@ -1,0 +1,38 @@
+_repo: Piano-Playing--With-Piano-Questions-Answered_39211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hofmann, Josef
+    aliases:
+    - Gofman, Iosif
+    - Hofmann, Jozef Kazimierz
+    - Hoffmann, Josef
+    - Dvorsky, Michel
+    - Hofman, Józef
+    - Hofmann, Józef Kazimierz
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '39899'
+    url: http://www.gutenberg.org/2009/agents/39899
+    wikipedia: http://en.wikipedia.org/wiki/Josef_Hofmann
+description: A master of technique advocates a balanced approach to piano playing
+  in this comprehensive guide. The first part discusses practice methods, use of the
+  pedal, playing pieces as written, and other rules. The second section answers frequently
+  asked questions about body and hand positions, wrist and arm action, phrasing, and
+  much more.
+gutenberg_issued: '2012-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piano -- Instruction and study'
+- !lcc 'MT'
+title: Piano Playing, with Piano Questions Answered
+url: http://www.gutenberg.org/ebooks/39211
